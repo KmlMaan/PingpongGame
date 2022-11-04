@@ -1,7 +1,12 @@
 # PingpongGame
 USE:
+
+
 A - to go left
+
+
 D - to go right
+
 
 
 
